@@ -1,5 +1,5 @@
 ## Dolphin
-[MSST 2024]Dolphin: A Resource-efficient Hybrid Index on Disaggregated Memory
+[MSST 2024] Dolphin: A Resource-efficient Hybrid Index on Disaggregated Memory
 
 ### Build
 1. Dependency
